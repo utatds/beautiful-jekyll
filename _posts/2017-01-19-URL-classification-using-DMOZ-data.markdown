@@ -6,9 +6,6 @@ excerpt: "We will look at CNNs and how to use them with word embeddings."
 date:   2017-01-18 15:00:00
 ---
 
-# Building a URL classifier using DMOZ data
-___
-
 ![logo](../assets/url/grab1.png)
 
 [DMOZ](https://www.dmoz.org/) (from directory.mozilla.org, an earlier domain name) is a multilingual open-content directory of World Wide Web links. The site and community who maintain it are also known as the Open Directory Project (ODP). It is owned by AOL but constructed and maintained by a community of volunteer editors.
